@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+[Home](./index.html) | [About](./about.html) | [Events](./events.html) | [Gallery](./gallery.html) | [Join](./join.html) | [Support](./support.html)
+
 
 # Kagoshima University Student Observatory
 
