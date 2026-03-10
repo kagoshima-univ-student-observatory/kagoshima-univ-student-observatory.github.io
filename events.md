@@ -6,7 +6,7 @@ title: Events
 # Events
 
 <div class="hero-image">
-  <img src="/assets/images/20260303_hero-moon-eclipse.jpg)" alt="Lunar eclipse event highlight">
+  <img src="/assets/images/20260303_hero-moon-eclipse.jpg" alt="Lunar eclipse event highlight">
 </div>
 
 観望会や観測活動の予定、実施報告を掲載します。
