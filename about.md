@@ -15,16 +15,17 @@ Kagoshima University Student Observatory は、学生主体の観測・観望活
 
 ## Mission
 
+宇宙の広大さと美しさにふれ、その感動を学生どうし、そして地域の方々と分かち合うことを出発点として、私たちは次の活動に取り組みます。
 - 天体観測の実践
 - 学生主体の観望会づくり
-- 天文学教育と outreach
+- 天文学教育と普及、アウトリーチ活動
 - 望遠鏡・関連設備の継続的活用
 - 観測文化の継承
 
 ## What we use
 
 - 75cm 光赤外望遠鏡
-- eVscope
+- eVscope　
 - 学生による観測・撮影・整理の実践環境
 
 ## Why this project
