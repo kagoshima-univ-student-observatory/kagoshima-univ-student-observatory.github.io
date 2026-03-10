@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    {% include nav.html %}
+
+    <div class="page-wrap">
+      <header class="site-header">
+        {% if site.logo %}
+          <img class="site-logo" src="{{ site.logo | relative_url }}" alt="Site logo">
+        {% endif %}
+        <div class="site-header-text">
+          <h1 class="site-title">{{ site.title }}</h1>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+      </header>
+
+      <main class="site-content">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <p>© Kagoshima University Student Observatory</p>
+      </footer>
+    </div>
+  </body>
+</html>
