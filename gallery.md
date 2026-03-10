@@ -39,9 +39,7 @@ title: Gallery
   </div>
 </div>
 
-## More images
-
-`assets/images/gallery/202603/` にあるほかの月食画像も、以下のように追加していけます。
+## More images to come 
 
 ```md
 <div class="gallery-grid">
