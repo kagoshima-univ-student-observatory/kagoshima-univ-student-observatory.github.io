@@ -1,4 +1,6 @@
 title: Kagoshima University Student Observatory
 description: Student-led observing, outreach, and astronomy community at Kagoshima University
 theme: jekyll-theme-minimal
+logo: /assets/images/logo_20251115_scienceclub.png
 show_downloads: false
+markdown: kramdown
