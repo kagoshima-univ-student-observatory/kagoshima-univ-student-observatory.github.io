@@ -15,7 +15,7 @@ title: Gallery
   <img src="/assets/images/gallery/202603/20260303_total_lunar_eclipse.jpg" alt="Total lunar eclipse observed in March 2026">
 </div>
 
-2026年3月の皆既月食の撮影成果です。  
+2026年3月の鹿児島で観測された皆既月食の撮影成果です。  (濱元さん撮影)
 同じフォルダにあるほかの画像も、今後このページに順次追加していきます。
 
 ## 2026 March lunar eclipse
@@ -40,6 +40,8 @@ title: Gallery
     <img src="/assets/images/gallery/202603/20260303_total_lunar_eclipse_IMG_9213.PNG" alt="Lunar eclipse image 3">
   </div>
 </div>
+
+　濱元さん撮影 <br>
 
 ## More images to come 
 
