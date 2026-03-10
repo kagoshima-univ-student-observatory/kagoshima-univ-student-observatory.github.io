@@ -43,15 +43,3 @@ title: Gallery
 
 ## More images to come 
 
-```md
-<div class="gallery-grid">
-  <div>
-    <img src="/assets/images/gallery/202603/20260303_total_lunar_eclipse_IMG_9205.PNG" alt="Lunar eclipse image 1">
-  </div>
-  <div>
-    <img src="/assets/images/gallery/202603/20260303_total_lunar_eclipse_IMG_9206.PNG" alt="Lunar eclipse image 2">
-  </div>
-  <div>
-    <img src="/assets/images/gallery/202603/20260303_total_lunar_eclipse_IMG_9213.PNG" alt="Lunar eclipse image 3">
-  </div>
-</div>
