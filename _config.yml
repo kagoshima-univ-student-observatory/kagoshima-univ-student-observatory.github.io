@@ -4,3 +4,6 @@ theme: jekyll-theme-minimal
 logo: /assets/images/logo_20251115_scienceclub.png
 show_downloads: false
 markdown: kramdown
+
+github:
+  is_project_page: false
