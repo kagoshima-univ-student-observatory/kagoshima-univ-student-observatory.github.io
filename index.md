@@ -10,7 +10,7 @@ title: Home
 鹿児島大学理学部理学科物理・宇宙プログラムで育てていく、学生主体の観測・観望プロジェクトです。
 
 <div class="hero-image">
-  <img src="/assets/images/hero-moon-eclipse.jpg" alt="Total lunar eclipse observed by the student observatory project">
+  <img src="/assets/images/20260303_hero-moon-eclipse.jpg" alt="Total lunar eclipse observed by the student observatory project">
 </div>
 
 ## Welcome
