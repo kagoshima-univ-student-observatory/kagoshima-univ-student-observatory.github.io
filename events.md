@@ -1,8 +1,8 @@
-[Home](./index.html) | [About](./about.html) | [Events](./events.html) | [Gallery](./gallery.html) | [Join](./join.html) | [Support](./support.html)
 ---
 layout: default
 title: Events
 ---
+[Home](./index.html) | [About](./about.html) | [Events](./events.html) | [Gallery](./gallery.html) | [Join](./join.html) | [Support](./support.html)
 
 # Events
 
