@@ -7,19 +7,19 @@ title: About
 
 Kagoshima University Student Observatory は、学生主体の観測・観望活動を育てるためのプロジェクトです。
 
+<div class="hero-image">
+  <img src="/assets/images/telescope.jpg" alt="Telescope used in the observatory project">
+</div>
+
 ## Mission
 
 - 天体観測の実践
 - 学生主体の観望会づくり
-- 宇宙の不思議と感動を皆さんと共有　ー outreach
+- 天文学教育と outreach
 - 望遠鏡・関連設備の継続的活用
 - 観測文化の継承
 
 ## What we use
-
-<div class="highlight-block">
-  <img src="/assets/images/telescope.jpg" alt="Telescope used in the observatory project">
-</div>
 
 - 75cm 光赤外望遠鏡
 - eVscope
@@ -36,3 +36,4 @@ Kagoshima University Student Observatory は、学生主体の観測・観望活
 - Student members
 - Science Club と連携した活動
 - Friends of Astronomy による応援と支援
+
