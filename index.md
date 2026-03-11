@@ -7,11 +7,20 @@ title: Home
 
 # Kagoshima University Student Observatory
 
-鹿児島大学理学部理学科物理・宇宙プログラムで育てていく、学生主体の観測・観望プロジェクトです。
+宇宙の感動を分かち合い、天文学のコミュニティを育てる学生主体の場です。<br>
+*A student-led place to share the wonder of the universe and grow an astronomy community.*
 
 <div class="hero-image">
   <img src="/assets/images/20260303_hero-moon-eclipse.jpg" alt="Total lunar eclipse observed by the student observatory project">
 </div>
+
+## Under the Sky Closest to Space / 宇宙に一番近い空の下で
+
+ロケットが未知の空間へと飛び立つ種子島や内之浦を擁する鹿児島は、「日本で最も宇宙に近い場所」です。海と火山が織りなす雄大な大自然の上には、息をのむほど澄みきった美しい星空が広がっています。大地から宇宙へと続くこの特別な環境で、私たちは夜空を見上げ、はるか彼方の光に思いを馳せています。
+
+鹿児島大学 Student Observatory は、この地だからこそ味わえる宇宙への驚きと感動を、学生たちの手で紡ぎ、地域社会や世界と分かち合うための場所です。この美しい鹿児島の空の下で、ともに宇宙のロマンを語り合いませんか。
+
+*Home to the rocket launch sites of Tanegashima and Uchinoura, Kagoshima is proudly known as Japan's gateway to the cosmos. Above our vast, dynamic landscapes of oceans and volcanoes stretches a breathtaking canvas of pristine, starry skies. The Kagoshima University Student Observatory is a student-led initiative dedicated to sharing the profound wonder and emotion of the cosmos. Join us under the beautiful skies of Kagoshima, and let us explore the universe together.*
 
 ## Welcome
 
